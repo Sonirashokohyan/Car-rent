@@ -30,14 +30,7 @@ elm2.addEventListener("click", function(){
     }
 });
 
-// let centerArrow = document.querySelectorAll(".center-arrow");
-// centerArrow.forEach(elemnt=>{
-    //     elemnt.addEventListener("click", function(){
-        //         let radioRight = document.querySelectorAll(".radio-effect");
-        //         radioRight.style.color ="white";
-        //         radioRight.setAttribute("style", "background: #3563E9;");
-        //     })
-        // });
+
 
 let select_input = document.querySelectorAll(".radio_select_input");
 let centerArrow = document.querySelectorAll(".center-arrow");
